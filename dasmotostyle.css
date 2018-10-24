@@ -1,0 +1,40 @@
+.container {
+  position: relative;
+  text-align: center;
+  background-image: url("image/pattern.jpeg");
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+.brushes {
+  font-family: Helvetica;
+  font-size: 32px;
+  color: white;
+  background-color: mediumspringgreen;
+
+}
+
+.prices {
+  font-family: Helvetica;
+  font-weight: bold;
+  color:blue;
+}
+
+.frames {
+  font-family: Helvetica;
+  font-size: 32px;
+  color: white;
+  background-color: lightcoral;
+}
+
+.paint {
+  font-family: Helvetica;
+  font-size: 32px;
+  color: white;
+  background-color: skyblue;
+}
